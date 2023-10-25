@@ -1,0 +1,41 @@
+C:\Users\Sistemas\source\repos\CrearSN\CrearSN\bin\Debug\CrearSN.exe.config
+C:\Users\Sistemas\source\repos\CrearSN\CrearSN\bin\Debug\CrearSN.exe
+C:\Users\Sistemas\source\repos\CrearSN\CrearSN\bin\Debug\CrearSN.pdb
+C:\Users\Sistemas\source\repos\CrearSN\CrearSN\obj\Debug\CrearSN.csprojAssemblyReference.cache
+C:\Users\Sistemas\source\repos\CrearSN\CrearSN\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Sistemas\source\repos\CrearSN\CrearSN\obj\Debug\CrearSN.csproj.ResolveComReference.cache
+C:\Users\Sistemas\source\repos\CrearSN\CrearSN\obj\Debug\CrearSN.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\source\repos\CrearSN\CrearSN\obj\Debug\CrearSN.exe
+C:\Users\Sistemas\source\repos\CrearSN\CrearSN\obj\Debug\CrearSN.pdb
+C:\Users\jefferson.bedoya\source\repos\CrearSN\CrearSN\obj\Debug\CrearSN.csproj.AssemblyReference.cache
+C:\Users\jefferson.bedoya\source\repos\CrearSN\CrearSN\obj\Debug\CrearSN.csproj.SuggestedBindingRedirects.cache
+C:\Users\jefferson.bedoya\source\repos\CrearSN\CrearSN\obj\Debug\CrearSN.csproj.ResolveComReference.cache
+C:\Users\jefferson.bedoya\source\repos\CrearSN\CrearSN\obj\Debug\CrearSN.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.bedoya\source\repos\CrearSN\CrearSN\obj\Debug\CrearSN.exe
+C:\Users\jefferson.bedoya\source\repos\CrearSN\CrearSN\obj\Debug\CrearSN.pdb
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\bin\Debug\CrearSN.exe.config
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\bin\Debug\CrearSN.exe
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\bin\Debug\CrearSN.pdb
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\obj\Debug\CrearSN.csproj.AssemblyReference.cache
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\obj\Debug\CrearSN.csproj.SuggestedBindingRedirects.cache
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\obj\Debug\CrearSN.csproj.ResolveComReference.cache
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\obj\Debug\CrearSN.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\obj\Debug\CrearSN.csproj.CopyComplete
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\obj\Debug\CrearSN.exe
+C:\Users\jefferson.bedoya\Desktop\CrearSN\CrearSN\obj\Debug\CrearSN.pdb
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\bin\Debug\CrearSN.exe.config
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\bin\Debug\CrearSN.exe
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\bin\Debug\CrearSN.pdb
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\obj\Debug\CrearSN.csproj.AssemblyReference.cache
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\obj\Debug\CrearSN.csproj.SuggestedBindingRedirects.cache
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\obj\Debug\CrearSN.csproj.ResolveComReference.cache
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\obj\Debug\CrearSN.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\obj\Debug\CrearSN.csproj.CopyComplete
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\obj\Debug\CrearSN.exe
+C:\Users\jefferson.bedoya\Desktop\Tipo de Cambio Peru\CrearSN\obj\Debug\CrearSN.pdb
